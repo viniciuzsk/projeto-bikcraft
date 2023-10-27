@@ -1,9 +1,9 @@
+@import "./ultilidades/animacao.css";
 @import "./global/global.css";
 @import "/css/ultilidades/tipografia.css";
 @import "/css/ultilidades/cores.css";
 @import "./global/header.css";
 @import "./home/footer.css";
-@import "./ultilidades/animacao.css";
 /* Ultilidades */
 
 /* Home */
@@ -35,7 +35,5 @@
 
 @import "/css/ultilidades/formulario.css";
 @import "/css/ultilidades/componentes.css";
-
-
 
 @import "/css/orcamento/orcamento.css";
