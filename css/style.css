@@ -1,7 +1,7 @@
-@import "./ultilidades/animacao.css";
-@import "./global/global.css";
-@import "/css/ultilidades/tipografia.css";
-@import "/css/ultilidades/cores.css";
+@import "ultilidades/animacao.css";
+@import "global/global.css";
+@import "./ultilidades/tipografia.css";
+@import "./ultilidades/cores.css";
 @import "./global/header.css";
 @import "./home/footer.css";
 /* Ultilidades */
@@ -33,7 +33,8 @@
 /*Termos*/
 @import "./termos/termos.css";
 
-@import "/css/ultilidades/formulario.css";
-@import "/css/ultilidades/componentes.css";
+@import "./ultilidades/formulario.css";
+@import "./ultilidades/componentes.css";
 
-@import "/css/orcamento/orcamento.css";
+@import "./orcamento/orcamento.css";
+
