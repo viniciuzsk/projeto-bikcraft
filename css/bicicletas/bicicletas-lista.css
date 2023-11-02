@@ -2,6 +2,10 @@
   padding-top: 60px;
   padding-bottom: 120px;
 }
+.bicicleta-conteudo ul > li{
+display: flex;
+align-items: center;
+}
 
 .bicicletas-lista ul {
   display: flex;
@@ -10,7 +14,8 @@
   max-width: 1400px;
   margin: 0 auto;
   margin-top: 40px;
-  overflow-x: auto; /* scroll: cria uma barra de scroll caso o elemento vaze o container 
+  overflow-x: auto;
+  ; /* scroll: cria uma barra de scroll caso o elemento vaze o container 
   auto cria a barra de scroll lateral caso for nescessario*/
 }
 .bicicletas-lista li{
